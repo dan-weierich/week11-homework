@@ -1,0 +1,8 @@
+{"name":"Tikka Masala","price":"2.50","category":"Dinner"}
+{"name":"Chana Masala","price":"1.00","category":"Lunch"}
+{"name":"Burgers","price":"5.00","category":"Lunch"}
+{"name":"Sushi","price":"12.00","category":"Bougie"}
+{"name":"Shoe","price":"50","category":"Footwear"}
+{"name":"hat","price":"40","category":"hats"}
+{"name":"Jacket","price":"100","category":"Outerwear"}
+{"name":"foo","price":"200","category":"bar"}
